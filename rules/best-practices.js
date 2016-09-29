@@ -44,7 +44,7 @@ module.exports = {
     'no-warning-comments': ['warn', { terms: ['todo', 'fixme', 'hack']}],
     'radix': 'error',
     'vars-on-top': 'error',
-    'wrap-life': 'error',
+    'wrap-iife': 'error',
     'yoda': 'error'
   }
 }
