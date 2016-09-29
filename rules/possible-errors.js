@@ -1,7 +1,7 @@
 module.exports = {
   rules: {
     'no-console': 'off',
-    'no-extra-parens': ['all', {
+    'no-extra-parens': ['error', 'all', {
       conditionalAssign: false,
       returnAssign: false,
       nestedBinaryExpressions: false,
