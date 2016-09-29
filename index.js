@@ -8,9 +8,9 @@ module.exports = {
     browser: true,
     es6: true,
     node: true,
-  }
+  },
   extends: [
-    'eslint:recommended'
+    'eslint:recommended',
     'fred/rules/possible-errors',
     'fred/rules/best-practices',
     'fred/rules/node-common',

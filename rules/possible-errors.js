@@ -1,4 +1,4 @@
-modules.exports = {
+module.exports = {
   rules: {
     'no-console': 'off',
     'no-extra-parens': ['all', {

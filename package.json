@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fred",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "My eslint config w/ auto setup",
   "main": "index.js",
   "eslintConfig": "index.js",
@@ -11,4 +11,8 @@
     "eslint": ">=3.5.0",
     "eslint-plugin-react": ">=6.2.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fredwilby/fred-eslint.git"
+  }
 }
