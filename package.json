@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-fred",
-  "version": "1.0.5",
-  "description": "My eslint config w/ auto setup",
+  "version": "1.0.6",
+  "description": "My eslint config",
   "main": "index.js",
   "eslintConfig": "index.js",
   "author": "Fred Wilby <fredwilby@yahoo.com>",

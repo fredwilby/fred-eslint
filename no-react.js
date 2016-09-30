@@ -17,6 +17,5 @@ module.exports = {
     'fred/rules/variables',
     'fred/rules/stylistic-issues',
     'fred/rules/es6',
-    'fred/rules/react',
   ],
 };
