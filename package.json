@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fred",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "My eslint config",
   "main": "index.js",
   "eslintConfig": "index.js",
